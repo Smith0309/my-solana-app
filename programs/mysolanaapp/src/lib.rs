@@ -6,6 +6,8 @@ declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 pub mod mysolanaapp {
     use super::*;
 
+    pub fn setup
+
     pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
         Ok(())
     }
