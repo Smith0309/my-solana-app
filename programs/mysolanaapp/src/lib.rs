@@ -7,7 +7,7 @@ pub mod mysolanaapp {
     use super::*;
 
     pub fn setup_platform(ctx : Context<>) {
-        
+        ctx.account
     }
 
     pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
